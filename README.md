@@ -8,17 +8,7 @@ The purpose of this repo is to have a quick start reference that can be set up w
 
 Have a look at the end result live:
 
-### [https://demo.viafoura.com/](https://demo.viafoura.com/)
-
-## Quick start
-
-1. [Create an account on DatoCMS](https://datocms.com).
-
-2. Make sure that you have set up the [Github integration on Vercel](https://vercel.com/docs/git/vercel-for-github).
-
-3. Let DatoCMS set everything up for you clicking this button:
-
-[![Deploy DatoCMS project](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/deploy?repo=viafoura/demo-site)
+### [https://qa-demo-site.vercel.app/](https://qa-demo-site.vercel.app/)
 
 ## Local setup
 
